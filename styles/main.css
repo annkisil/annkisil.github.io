@@ -1,0 +1,30 @@
+	h1, h2 {
+		color: Indigo;
+		font-weight: bold;
+		text-align: center;
+	}
+	.past {
+		color: green;
+	}
+	.pres{
+		color: blue;
+	}
+	.tlo {
+		background-color: HotPink;
+	}
+	p {
+		font-family: arial; 
+		font-size: 16px;
+	}
+	.pic {
+		text-align: center;"
+	}
+	ol {
+		font-family: gabriola; 
+		font-size: 17pt
+	}
+	img {
+		width: 300px; 
+		height: 200px; 
+		margin-right: 8px
+	}

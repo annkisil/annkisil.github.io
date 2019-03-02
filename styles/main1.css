@@ -1,0 +1,44 @@
+	h1, h2 {
+		color: Indigo;
+		font-weight: bold;
+		text-align: center;
+	}
+	.past {
+		color: green;
+	}
+	.pres{
+		color: blue;
+	}
+	.tlo {
+		background-color: HotPink;
+	}
+	p {
+		font-family: arial; 
+		font-size: 16px;
+	}
+	.phototo-block {
+		text-align: center;
+	}
+	ol {
+		font-family: gabriola; 
+		font-size: 17pt
+	}
+	img {
+		width: 300px; 
+		height: 200px; 
+		margin-left: : 8px;
+		margin-top: 20px;
+	}
+	table, th, td{
+		border: 1px solid black;
+		text-align: center;
+	}
+	th{
+	background-color: silver;	
+	}
+	table{
+		border-collapse: collapse; /*стирание двойных линий таблицы*/
+		width: 100%;
+		background-color: gray;
+	}
+	
